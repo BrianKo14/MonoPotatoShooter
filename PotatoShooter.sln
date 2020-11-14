@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PotatoShooter", "PotatoShooter\PotatoShooter.csproj", "{66A832C4-90A4-4211-B206-7624C52EF264}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66A832C4-90A4-4211-B206-7624C52EF264}.Debug|x64.ActiveCfg = Debug|x64
+		{66A832C4-90A4-4211-B206-7624C52EF264}.Debug|x64.Build.0 = Debug|x64
+		{66A832C4-90A4-4211-B206-7624C52EF264}.Debug|x86.ActiveCfg = Debug|x86
+		{66A832C4-90A4-4211-B206-7624C52EF264}.Debug|x86.Build.0 = Debug|x86
+		{66A832C4-90A4-4211-B206-7624C52EF264}.Release|x64.ActiveCfg = Release|x64
+		{66A832C4-90A4-4211-B206-7624C52EF264}.Release|x64.Build.0 = Release|x64
+		{66A832C4-90A4-4211-B206-7624C52EF264}.Release|x86.ActiveCfg = Release|x86
+		{66A832C4-90A4-4211-B206-7624C52EF264}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8BBCB4B-1E8A-4A0D-ACBD-8C999AD4D7A4}
+	EndGlobalSection
+EndGlobal

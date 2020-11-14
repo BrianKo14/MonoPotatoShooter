@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Visual Studio Projects/PotatoShooter/PotatoShooter/Content/backgroundPicture.png</File>
+    <File>D:/Visual Studio Projects/PotatoShooter/PotatoShooter/Content/boss1.png</File>
+    <File>D:/Visual Studio Projects/PotatoShooter/PotatoShooter/Content/boss2.png</File>
+    <File>D:/Visual Studio Projects/PotatoShooter/PotatoShooter/Content/boss2Friend.png</File>
+    <File>D:/Visual Studio Projects/PotatoShooter/PotatoShooter/Content/Cannon.png</File>
+    <File>D:/Visual Studio Projects/PotatoShooter/PotatoShooter/Content/cursor1.png</File>
+    <File>D:/Visual Studio Projects/PotatoShooter/PotatoShooter/Content/Enemy1.png</File>
+    <File>D:/Visual Studio Projects/PotatoShooter/PotatoShooter/Content/Potato.png</File>
+    <File>D:/Visual Studio Projects/PotatoShooter/PotatoShooter/Content/PowerUp1.png</File>
+    <File>D:/Visual Studio Projects/PotatoShooter/PotatoShooter/Content/PowerUp2.png</File>
+    <File>D:/Visual Studio Projects/PotatoShooter/PotatoShooter/Content/PowerUp3.png</File>
+    <File>D:/Visual Studio Projects/PotatoShooter/PotatoShooter/Content/Red.jpg</File>
+    <File>D:/Visual Studio Projects/PotatoShooter/PotatoShooter/Content/score.spritefont</File>
+    <File>D:/Visual Studio Projects/PotatoShooter/PotatoShooter/Content/shotSound.mp3</File>
+    <File>D:/Visual Studio Projects/PotatoShooter/PotatoShooter/Content/SubFont.spritefont</File>
+    <File>D:/Visual Studio Projects/PotatoShooter/PotatoShooter/Content/Subtitle.spritefont</File>
+    <File>D:/Visual Studio Projects/PotatoShooter/PotatoShooter/Content/title.spritefont</File>
+    <File>D:/Visual Studio Projects/PotatoShooter/PotatoShooter/Content/Tuti_Shooter.png</File>
+    <File>D:/Visual Studio Projects/PotatoShooter/PotatoShooter/Content/White.jpg</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

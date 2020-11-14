@@ -1,0 +1,3 @@
+D:\Visual Studio Projects\PotatoShooter\PotatoShooter\obj\Release\PotatoShooter.Start.resources
+D:\Visual Studio Projects\PotatoShooter\PotatoShooter\obj\Release\PotatoShooter.csproj.GenerateResource.cache
+D:\Visual Studio Projects\PotatoShooter\PotatoShooter\obj\Release\PotatoShooter.csproj.CoreCompileInputs.cache

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/Visual Studio Projects/PotatoShooter/PotatoShooter/Content/SubFont.spritefont</SourceFile>
+  <SourceTime>2019-10-24T10:57:17.1661232-03:00</SourceTime>
+  <DestFile>D:/Visual Studio Projects/PotatoShooter/PotatoShooter/Content/bin/Windows/SubFont.xnb</DestFile>
+  <DestTime>2019-10-24T11:09:24.9664684-03:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-12-08T13:35:54-03:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-12-08T13:35:54-03:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
